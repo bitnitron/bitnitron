@@ -1,0 +1,9 @@
+Building bitnitron
+
+See doc/readme-qt.rst for instructions on building bitnitron-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of bitnitron.
+
+See doc/build-*.txt for instructions on building bitnitrond,
+the intended-for-services, no-graphical-interface, reference
+implementation of bitnitron.
