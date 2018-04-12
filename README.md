@@ -10,7 +10,7 @@ What is Bitnitron?
 ----------------
 
 Bitnitron is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 2 minute block targets
  - subsidy halves in 840k blocks (~2 years)
  - ~100 million total coins
 
